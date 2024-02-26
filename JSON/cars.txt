@@ -1,0 +1,32 @@
+{
+  "Transport": [
+    {
+      "CarType": "Truck",
+      "ProducingCountry": "USA",
+      "ManufacturingDate": 1988,
+      "CarBrand": "Ford",
+      "CarColor": "pink"
+    },
+    {
+      "CarType": "SUV",
+      "ProducingCountry": "Sweden",
+      "ManufacturingDate": 2002,
+      "CarBrand": "Volvo",
+      "CarColor": "white"
+    },
+    {
+      "CarType": "coupe",
+      "ProducingCountry": "Japan",
+      "ManufacturingDate": 2016,
+      "CarBrand": "Mazda",
+      "Carcolor": "yellow"
+    },
+    {
+      "CarType": "sedan",
+      "ProducingCountry": "Ukraine",
+      "Manufacturing Date": 1981,
+      "CarBrand": "ЗАЗ",
+      "CarColor": "green"
+    }
+  ]
+}
